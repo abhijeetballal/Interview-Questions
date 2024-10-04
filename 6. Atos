@@ -1,0 +1,11 @@
+What is difference between System Reboot and System Stop and Start?
+What will happen once you reboot or stop the instances?
+What are S3 storage classes?
+What is lifecycle data in S3?
+Why we need the subnets in VPC?
+What is difference between NAT Instance and NAT Gateway?
+Why Security Group is called Stateful and NACL called as Stateless?
+Tell me some automation you did in your project which save the cost?
+What is AWS Backup, why don't your organization use AWS backup for storing the AMI and EBS volume.
+Replica in other region.
+How Lambda function will get to know which EC2 instance got terminated and EBS volume is attached to snapshot or not?
