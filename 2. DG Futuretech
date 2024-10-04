@@ -1,0 +1,19 @@
+How to create the Tar file in particular folder?
+Suppose there is a file in A directory and want to create soft link of that file in B directory, what is the command?
+What is the command to check running processes?
+I want to check specific processes running on my system? for e.g. Java.
+How to move the file from one directory to another directory?
+How to compress the Tar file?
+What is Absolute path?
+What is Relative path?
+How to copy the from different directory to current directory?
+Which command do we use for to go to root directory?
+How to edit the second line of the file, using short cuts?
+How to delete the second line of the file, using short cuts?
+How to check any directory contents?
+How to read bottom and top 5 lines from the file?
+Write a Ansible Playbook for software installation or Security Patching?
+How to install MS-Office on 5 Windows system using Ansible?
+I have a War file saved on my desktop and want to deploy that file using Ansible, write a Playbook for the same?
+What is yum, used in Ansible Playbook?
+What is service, used in Ansible Playbook?
