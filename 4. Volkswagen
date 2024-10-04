@@ -1,0 +1,20 @@
+How you trigger the Lambda function if anyone put the object in S3 bucket and get notified?
+Suppose a user unable to access the EC2 instance, everything is configured correct then what checks you will do?
+If a existing user asking for role, what question you will ask him? Ans - Trust Issues.
+What is Human Role and Non-human Role? Please explain or define in brief?
+In Load Balancer - there is a external internet and internal internet? What are components we use for internal and external?
+What are policies of Auto Scaling group?
+How will EC2 instance interact with other?
+I have one AWS account and want access the object from S3 from other AWS account? Explain the steps and procedure for the same.
+If any user is unable to access my Instance, where do I check and analyse this?
+Where will I check the logs of EC2 instance, whether user is able to login successfully or failed or some error occurred transaction etc.
+Suppose I have application running on my server and users from particular port or from particular web site unable to access my application what will I check and where will I check?
+How will define Public subnet and Private subnet?
+Have you worked on CloudFormation?
+My application is facing the network issue, how will you troubleshoot the same?
+By which component in EC2 you can interact with other entity or user?
+How will you configure Role if you have to assign to user and what questions you will ask to him?
+How will you monitor the end to end logs for EC2 instance?
+You have a AMI (created correctly and other user created EC2 successfully), but you are unable to launch the instance what will you do?
+I have a application, everything seems to be fine (security group, access and all) however user is facing the network issue, how will you resolve this?
+Load Balancer - Policies - Content Based Routing & Path Based Routing.
