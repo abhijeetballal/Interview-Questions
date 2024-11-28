@@ -1,0 +1,12 @@
+If I have executed the terraform code of EC2 and RDS and have a same state file for both of them. But I want to maintain the different state file for EC2 and RDS, how to do that?
+Someone has deleted the EC2 instance, how will I get to know who has deleted that resource?
+If someone has deleted the object from S3 and versioning is enabled, what happened in backend?
+What properties you have created while creating the S3 bucket?
+Explain VPC, subnets and internet gateway how you used them in infrastructure?
+Write a terraform code of EC2 for deploying it into multiple regions?
+Have you worked on Terraform state and Terraform import?
+Which Lambda function you have created for automating the tasks?
+I have stopped the execution in the middle, and 2 users working on same file then what happen to other user will get the locked error or not?
+I have to do changes in state file and dont want to create the resources again, how should I do that?
+Are you able to write the Python or any scripting language?
+Where you keep your state file locally?
