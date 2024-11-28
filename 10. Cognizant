@@ -10,3 +10,4 @@ I have stopped the execution in the middle, and 2 users working on same file the
 I have to do changes in state file and dont want to create the resources again, how should I do that?
 Are you able to write the Python or any scripting language?
 Where you keep your state file locally?
+Have you gone through any terraform state command incidant?
