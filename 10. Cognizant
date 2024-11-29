@@ -12,3 +12,6 @@ Are you able to write the Python or any scripting language?
 Where you keep your state file locally?
 Have you gone through any terraform state command incidant?
 What is CloudFront?
+What is VPC Peering?
+What is Transit Gateway?
+Suppose, I have VPC-1, VPC-2 and VPC-3 and I have connection between the VPC-1 to VPC-2 & VPC-2 to VPC-3. So can I able to establish the connection betweeb VPC-1 to VPC3?
